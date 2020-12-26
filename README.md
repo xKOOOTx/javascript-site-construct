@@ -1,1 +1,1 @@
-# javascript-siteConstruct
+# javascript-site-construct
